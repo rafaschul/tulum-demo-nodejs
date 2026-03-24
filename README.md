@@ -1,6 +1,6 @@
-# TULUM Demo (Node.js)
+# Shyrdam Demo
 
-Static HTML demo for TULUM served via Node.js + Express.
+Node.js (Express) wrapper for static HTML demo.
 
 ## Run locally
 

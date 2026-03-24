@@ -10,5 +10,5 @@ app.get('*', (_req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
+  console.log(`Shyrdam demo running on port ${PORT}`);
 });

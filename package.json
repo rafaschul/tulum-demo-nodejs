@@ -1,8 +1,8 @@
 {
-  "name": "tulum-demo-nodejs",
+  "name": "shyrdam-demo",
   "version": "1.0.0",
   "private": true,
-  "description": "Node.js Express wrapper for static HTML demo",
+  "description": "Shyrdam Demo - Node.js Express",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
